@@ -1,0 +1,69 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Jothika's Portfolio</title>
+    <link rel="stylesheet" href="style1.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home" class="active">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#resume">Resume</a></li>
+                <li><a href="#linkedin-in">linkedin-in</a></li>
+                <li><a href="#contact">contact</a></li>
+            </ul>
+        </nav>
+        <div class="intro">
+            <h1>I'm Jothika</h1>
+            <p>I’m a Web Developer creating awesome and effective web applications for companies of all sizes around the globe. Let’s start scrolling and learn more about me.</p>
+        <div class="scroll-down">
+            <a href="#about"><i class="fas fa-chevron-down"></i></a>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <center>
+        <p>Hi, I'm Jothika, a passionate and dedicated Full Stack Web Developer </p>
+        <p>with a deep interest in building efficient,scalable,and user-friendly
+         web applications.</p>
+        <p> I have experience in both frontend and backend technologies, </p>
+        <p>which enables me to work across the entire stack of a web project</p>
+        <p>believe in the power of the web to solve real-world problems.</p>
+           
+        </center>
+    </section>
+
+
+    <section id="Resume">
+        <h2>Resume</h2>
+        <a href="https://drive.google.com/file/d/16FwUoZE_ZOl90Sj-px7aSOudHM8UQFkK/view?usp=drive_link">Download Resume</a>
+    </section>
+    
+
+    <section id="linkedin-in">
+        <h2>linkedin-in</h2>
+        <a href="https://www.linkedin.com/in/jothika04?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Download linkedin-in</a>
+       
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Feel free to get in touch via email or connect with me on my social media channels.</p>
+        
+        <ul>
+          <li><strong>Email:</strong> <a href="mailto:jothikakkl2004@gmail.com">jothikakkl2004@gmail.com</a></li>
+          <li><strong>GitHub:</strong> <a href="https://github.com/jothika-85/jothika-85" target="_blank">GitHub Profile</a></li>
+        </ul>
+      
+        
+      </section>
+      
+
+</body>
+</html>
